@@ -4,7 +4,7 @@ This is [绀漓丨Sevtinge](@Sevtinge) 's PM Bot. You can use this bot to connec
 
 How to Use:
 - Your message will be forwarded to Sevtinge, so please be patient and wait for a reply.
-- This bot doesn't have menus and commands
+- This bot doesn't have menus and commands.
 ---
 **你好！**
 
